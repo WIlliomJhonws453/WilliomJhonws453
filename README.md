@@ -1,16 +1,24 @@
-## Hi there 👋
+### 💻 About Me
 
-<!--
-**WIlliomJhonws453/WilliomJhonws453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a passionate software developer who enjoys building clean, efficient, and scalable applications. I specialize in full-stack development and love exploring new technologies to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** JavaScript | TypeScript | Python | Java | Go
+* **Frameworks:** React | Next.js | Node.js | Express | Django | Spring Boot
+* **Databases:** PostgreSQL | MongoDB | MySQL | Redis
+* **Tools:** Docker | GitHub Actions | Webpack | Vite
+* **Cloud & DevOps:** AWS | Vercel | Netlify | Heroku | CI/CD
+
+### 🚀 What I'm Working On
+
+* Contributing to open-source projects
+* Building developer tools and productivity apps
+* Exploring AI/ML integrations in web development
+
+### 🌱 Currently Learning
+
+* Rust and system-level programming
+* Advanced DevOps practices (Kubernetes, Terraform)
+* AI APIs and LLM integrations
+
